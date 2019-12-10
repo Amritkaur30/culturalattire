@@ -12,16 +12,16 @@ header:
     - label: Sign Up
       url: "/signup"
 footer:
-  logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
+  logo_img: "/images/cultural attire (1).png"
+  tagline: Design & Develop by Amrit Kaur
   has_nav: true
-  nav_title: Company
-  has_social: true
+  nav_title: Cultural Attire
+  has_social: false
   social_title: Community
   has_subscribe: true
   subscribe_title: Subscribe
-  subscribe_content: Stay up to date with our latest developments.
-  content: "&copy; Stackbit. All rights reserved."
+  subscribe_content: Stay up to date with our latest news.
+  content: "&copy; Cultural. All rights reserved."
   links:
   - text: Made with Stackbit
     url: https://www.stackbit.com
