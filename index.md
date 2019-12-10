@@ -17,19 +17,18 @@ sections:
     url: "/features"
 - type: section_features
   template: section_features
-  section_id: features
-  title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  section_id: feature
+  title: V - S - M - F
+  subtitle: OUR VISION - STRATEGIES - MARKETING - FINANCE
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+  - title: Our Vision
+    content: 'We endeavour to be worldwide leaders in Fashion-Knit and Fashion Outwear
+      by empowering Traditional designs to provide whole customer satisfaction '
     image: images/feature1.png
     actions:
     - label: Learn More
-      url: "/features"
+      url: "/our-vision"
   - title: Awesome Feature of Your Services
     content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
       sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
@@ -44,6 +43,14 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
+  - title: ''
+    content: ''
+    image: ''
+    actions: []
+  - title: ''
+    content: ''
+    image: ''
+    actions: []
 - type: section_reviews
   template: section_reviews
   section_id: reviews
