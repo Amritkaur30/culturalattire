@@ -11,7 +11,7 @@ sections:
     BE YOURSELF<br>
 
     BE DIVINE
-  image: images/hero.png
+  image: "/images/IMG-8885.JPG"
   actions:
   - label: Learn More
     url: "/features"
