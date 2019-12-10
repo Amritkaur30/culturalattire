@@ -24,7 +24,6 @@ fields:
   config:
     required: true
 pages:
-- "./marketing.md"
 - "./our-vision.md"
 - "./about-us-1.md"
 - "./about-us.md"
