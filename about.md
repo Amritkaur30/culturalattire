@@ -1,16 +1,20 @@
 ---
-title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+title: OUR VISION
+subtitle: "“WE ENDEAVOUR TO BE WORLDWIDE LEADERS IN FASHION-KNIT AND FASHION OUTWEAR
+  BY EMPOWERING TRADITIONAL DESIGNS TO PROVIDE WHOLE CUSTOMER SATISFACTION”"
 img_path: images/about.jpg
-menus:
-  secondary:
-    title: About Us
-    weight: 1
 layout: page
+menu:
+  secondary:
+    weight: 1
+
 ---
+Undoubtedly, what you wear is how you represent yourself to the world and, also fashion is instant language so, we will offer elegant, exclusive, and iconic designs of quality clothing brands to our customers specifically related to their own culture. We will always try to make a difference via our traditional branding to stay ahead of market changes as well as fashion trends.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+The concept will boom the market in the next few years as we will operate stylish and profitable retail stores where customers will get a superb experience by exorbitant their needs in clothing which will be influenced by their own culture. Our business will bring inspiration in clothing trends to every individual towards their culture in the international nation as they can find a link back and they will feel attach to home country and they can represent their traditions.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+The business aims to create emotional connections with customers in an international country through inspiring product design, competitive marketing, and unique store experiences. Our goals are very simple to make it easier for folks to find the best pair of clothes. Customers can customize own appearance and their clothing styles.
+
+Websites and mobile application will play a crucial role in 3D outfit look of their dresses as they can get an idea of their outfit appearance via websites and can also place order for their customize dress by giving online measurements. We desire to achieve a high position in sales in upcoming years.
+
+We strive to be well- managed and caring organization for our business partners, employees, and customers.
