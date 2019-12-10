@@ -45,10 +45,13 @@ sections:
     actions:
     - label: Learn More
       url: "/risk"
-  - title: ''
-    content: ''
+  - title: Marketing
+    content: We will do Digital marketing through social media, Pay per click, and
+      SEO, Advertisement, Blog, Art fairs or Exhibition, Moving store etc..
     image: ''
-    actions: []
+    actions:
+    - label: Learn more..
+      url: "/marketing"
   - title: ''
     content: ''
     image: ''
