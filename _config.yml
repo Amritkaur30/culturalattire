@@ -16,7 +16,7 @@ footer:
   tagline: Design & Develop by Amrit Kaur
   has_nav: true
   nav_title: Cultural Attire
-  has_social: false
+  has_social: true
   social_title: Community
   has_subscribe: true
   subscribe_title: Subscribe
