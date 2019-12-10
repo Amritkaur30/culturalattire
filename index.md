@@ -34,7 +34,7 @@ sections:
       “WE WILL NOT DESIGN CLOTHES; WE WILL DESIGN CULTURE”
 
       an emotional connection with our customers as our textiles depict their culture and help them to keep connected with their traditions.
-    image: "/images/IMG-8884.JPG"
+    image: "/images/IMG-8890.JPG"
     actions:
     - label: Learn More
       url: "/strategies"

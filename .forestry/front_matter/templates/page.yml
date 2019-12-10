@@ -24,10 +24,10 @@ fields:
   config:
     required: true
 pages:
-- finance.md
-- marketing.md
-- risk.md
-- strategies.md
 - our-vision.md
 - style-guide.md
 - signup.md
+- finance.md
+- marketing.md
+- strategies.md
+- risk.md
