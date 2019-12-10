@@ -8,264 +8,264 @@ menu:
     weight: 9
 
 ---
-\\- First of all, we need a space to build our store so we need rent and operating expenses .
+First of all, we need a space to build our store so we need rent and operating expenses .
 
-\\- Equipment like sewing machines, chemicals and tools for dyeing, digital pattern and texture making machines, machines for embroidery are required.
+Equipment like sewing machines, chemicals and tools for dyeing, digital pattern and texture making machines, machines for embroidery are required.
 
-\\- Security coverage will be needed for company insurance, health insurance for employees and business interruption insurance for any unforeseen disturbances.
+Security coverage will be needed for company insurance, health insurance for employees and business interruption insurance for any unforeseen disturbances.
 
-\\- We also need to hire at least 15-20 employees including designer, manufacturer, supplier and web hosting team to run the website for the company.
+We also need to hire at least 15-20 employees including designer, manufacturer, supplier and web hosting team to run the website for the company.
 
-\\- We need to pay to the marketing team who will help to promote our business through social media and traditional media.
+We need to pay to the marketing team who will help to promote our business through social media and traditional media.
 
 A roughly estimate of total expenses to start a business :-
 
-    <table>
+<table>
 
-    <tr>
+<tr>
 
-    <th>Item</th>
+<th>Item</th>
 
-    <th>
+<th>
 
-    Details
+Details
 
-    </th>
+</th>
 
-    <th>
+<th>
 
-    Cost
+Cost
 
-    </th>
+</th>
 
-    <th>
+<th>
 
-    Refrences
+Refrences
 
-    </th>
+</th>
 
-    </tr>
+</tr>
 
-    <tr>
+<tr>
 
-    <td>Space Rent
+<td>Space Rent
 
-    </td>
+</td>
 
-    <td>Security deposit and Rent </td>
+<td>Security deposit and Rent </td>
 
-    <td>$3,000.00</td>
+<td>$3,000.00</td>
 
-    <td>6k security deposit and 3000 rent per month </td>
+<td>6k security deposit and 3000 rent per month </td>
 
-    </tr>
+</tr>
 
-    <tr>
+<tr>
 
-    <td>Equipments
+<td>Equipments
 
-    </td>
+</td>
 
-    <td>Sewig Machines,
+<td>Sewig Machines,
 
-    Embroidery Machine,
+Embroidery Machine,
 
-    etc.
+etc.
 
-    </td>
+</td>
 
-    <td> $30,000.00
+<td> $30,000.00
 
-    </td>
+</td>
 
-    <td> </td>
+<td> </td>
 
-    </tr>
+</tr>
 
-    <tr>
+<tr>
 
-    <td>Marketing
+<td>Marketing
 
-    </td>
+</td>
 
-    <td>Digital Marketing,
+<td>Digital Marketing,
 
-    Traditional Marketing
+Traditional Marketing
 
-     </td>
+ </td>
 
-    <td> $25,000.00
+<td> $25,000.00
 
-     </td>
+ </td>
 
-    <td>Per Month
+<td>Per Month
 
-     </td>
+ </td>
 
-    </tr>
+</tr>
 
-    <tr>
+<tr>
 
-    <td>Raw material
+<td>Raw material
 
-    </td>
+</td>
 
-    <td> Fabric, Threads, Paint,
+<td> Fabric, Threads, Paint,
 
-     and Chemicals for dye"
+ and Chemicals for dye"
 
-    </td>
+</td>
 
-    <td> $15,000.00
+<td> $15,000.00
 
-    </td>
+</td>
 
-    <td> </td>
+<td> </td>
 
-    </tr>
+</tr>
 
-    <tr>
+<tr>
 
-    <td>Physical assets
+<td>Physical assets
 
-    </td>
+</td>
 
-    <td> Computer, Furniture,
+<td> Computer, Furniture,
 
-    POS machine
+POS machine
 
-    </td>
+</td>
 
-    <td> $35,000.00
+<td> $35,000.00
 
-     </td>
+ </td>
 
-    <td> </td>
+<td> </td>
 
-    </tr>
+</tr>
 
-    <tr>
+<tr>
 
-    <td>Online Store
+<td>Online Store
 
-    </td>
+</td>
 
-    <td> Website and Mobile Application
+<td> Website and Mobile Application
 
-    </td>
+</td>
 
-    <td> $20,000.00
+<td> $20,000.00
 
-    </td>
+</td>
 
-    <td> </td>
+<td> </td>
 
-    </tr>
+</tr>
 
-    <tr>
+<tr>
 
-    <td>Annual maintenance contract
+<td>Annual maintenance contract
 
-    </td>
+</td>
 
-    <td> Third party contract for maintaining Web and mobile application
+<td> Third party contract for maintaining Web and mobile application
 
-    </td>
+</td>
 
-    <td> $10,000.00
+<td> $10,000.00
 
-    </td>
+</td>
 
-    <td> </td>
+<td> </td>
 
-    </tr>
+</tr>
 
-    <tr>
+<tr>
 
-    <td>Utilities, supply and communication
+<td>Utilities, supply and communication
 
-    </td>
+</td>
 
-    <td> </td>
+<td> </td>
 
-    <td> $7,000.00
+<td> $7,000.00
 
-    </td>
+</td>
 
-    <td> Per month</td>
+<td> Per month</td>
 
-    </tr>
+</tr>
 
-    <tr>
+<tr>
 
-    <td>Social Securities and Benefits
+<td>Social Securities and Benefits
 
-    </td>
+</td>
 
-    <td>Health Insurance,<br>
+<td>Health Insurance,<br>
 
-    Worker Compansation Insurance,<br>
+Worker Compansation Insurance,<br>
 
-    Property Insurance,<br>
+Property Insurance,<br>
 
-    Business interruption insurance
+Business interruption insurance
 
-     </td>
+ </td>
 
-    <td> $5,700.00
+<td> $5,700.00
 
-     </td>
+ </td>
 
-    <td>Per month </td>
+<td>Per month </td>
 
-    </tr>
+</tr>
 
-    <tr>
+<tr>
 
-    <td>Salary
+<td>Salary
 
-    </td>
+</td>
 
-    <td> 15-20 Employees($14@hrs)
+<td> 15-20 Employees($14@hrs)
 
-    </td>
+</td>
 
-    <td> $44,800.00
+<td> $44,800.00
 
-    </td>
+</td>
 
-    <td> Per month</td>
+<td> Per month</td>
 
-    </tr>
+</tr>
 
-    <tr>
+<tr>
 
-    <td><strong>Capital to Run Business for a Year </strong>
+<td><strong>Capital to Run Business for a Year </strong>
 
-    </td>
+</td>
 
-    <td> </td>
+<td> </td>
 
-    <td> <strong>$700,000.00
+<td> <strong>$700,000.00
 
-    </strong></td>
+</strong></td>
 
-    <td></td>
+<td></td>
 
-    </tr>
+</tr>
 
-    <tr>
+<tr>
 
-    <td> <strong style="font-size:25px;color:#005149;">Total</strong></td>
+<td> <strong style="font-size:25px;color:#005149;">Total</strong></td>
 
-    <td> </td>
+<td> </td>
 
-    <td><strong style="font-size:25px;color:#005149;"> $895,500.00
+<td><strong style="font-size:25px;color:#005149;"> $895,500.00
 
-    </strong> </td>
+</strong> </td>
 
-    <td> </td>
+<td> </td>
 
-    </tr>
+</tr>
 
-    </table>
+</table>
