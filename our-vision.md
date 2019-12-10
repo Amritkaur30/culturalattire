@@ -4,6 +4,9 @@ title: Our Vision
 subtitle: "“We endeavour to be worldwide leaders in Fashion-Knit and Fashion Outwear
   by empowering Traditional designs to provide whole customer satisfaction”"
 img_path: ''
+menu:
+  main:
+    weight: 5
 
 ---
 Undoubtedly, what you wear is how you represent yourself to the world and, also fashion is instant language so, we will offer elegant, exclusive, and iconic designs of quality clothing brands to our customers specifically related to their own culture. We will always try to make a difference via our traditional branding to stay ahead of market changes as well as fashion trends.
