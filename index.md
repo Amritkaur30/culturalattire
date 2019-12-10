@@ -66,8 +66,8 @@ sections:
   title: This Is Call To Action Block!
   subtitle: This is an optional description for the call to action block.
   actions:
-  - label: Get Started
-    url: "/signup"
+  - label: Keep In Trouch
+    url: "/contact"
 layout: landing
 menu:
   main:
