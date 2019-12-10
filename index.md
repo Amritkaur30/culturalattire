@@ -25,7 +25,7 @@ sections:
   - title: Our Vision
     content: 'We endeavour to be worldwide leaders in Fashion-Knit and Fashion Outwear
       by empowering Traditional designs to provide whole customer satisfaction '
-    image: "/images/—Pngtree—fashion girl hand drawn beauty_3841097.png"
+    image: "/images/7.jpg"
     actions:
     - label: Learn More
       url: "/our-vision"
