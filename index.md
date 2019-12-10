@@ -3,10 +3,14 @@ title: Home
 sections:
 - type: section_hero
   template: section_hero
-  section_id: hero
-  title: This Is A Big Hero Headline
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  section_id: Cultural Fashion
+  title: BEAUTY WITH CULTURE
+  content: |-
+    BE EXCLUSIVE<br>
+
+    BE YOURSELF<br>
+
+    BE DIVINE
   image: images/hero.png
   actions:
   - label: Learn More
@@ -74,6 +78,7 @@ sections:
   section_id: recent-posts
   title: Latest Posts
   bg: gray
+  subtitle: ''
 layout: landing
 menu:
   main:
