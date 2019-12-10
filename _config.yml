@@ -5,7 +5,7 @@ permalink: "/:title/"
 palette: purple
 header:
   title: Cultural Attire
-  logo_img: images/logo.png
+  logo_img: "/images/Cultural attire.png"
   has_nav: true
   menu:
     actions:
