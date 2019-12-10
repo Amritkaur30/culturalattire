@@ -63,8 +63,8 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: This Is Call To Action Block!
-  subtitle: This is an optional description for the call to action block.
+  title: We are happy to helping you..!
+  subtitle: ''
   actions:
   - label: Keep In Trouch
     url: "/contact"
