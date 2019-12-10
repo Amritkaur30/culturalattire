@@ -3,6 +3,9 @@ layout: page
 title: Finance
 subtitle: ''
 img_path: ''
+menu:
+  main:
+    weight: 9
 
 ---
 \\- First of all, we need a space to build our store so we need rent and operating expenses .

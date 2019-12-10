@@ -3,6 +3,9 @@ layout: page
 title: Marketing
 subtitle: ''
 img_path: ''
+menu:
+  main:
+    weight: 8
 
 ---
 Once you have launched your product in the market the next biggest challenge is how would you do marketing for the promotion of your product. Therefore, following are some of the marketing ways which helps our clothing brand to get promotion:-
