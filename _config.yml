@@ -12,7 +12,7 @@ header:
     - label: Sign Up
       url: "/signup"
 footer:
-  logo_img: "/images/cultural attire (1).png"
+  logo_img: ''
   tagline: ''
   has_nav: true
   nav_title: Cultural Attire
