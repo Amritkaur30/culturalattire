@@ -63,8 +63,5 @@ sections:
       vulputate, a lobortis lacus venenatis. Phasellus pellentesque dolor id feugiat
       faucibus. Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 layout: landing
-menu:
-  main:
-    weight: 3
 
 ---

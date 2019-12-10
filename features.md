@@ -29,8 +29,5 @@ sections:
   - label: Get Started
     url: "#"
 layout: landing
-menu:
-  main:
-    weight: 2
 
 ---

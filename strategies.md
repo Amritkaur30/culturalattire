@@ -5,7 +5,7 @@ subtitle: "“We will not design clothes; we will design culture”"
 img_path: ''
 menu:
   main:
-    weight: 6
+    weight: 3
 
 ---
 In order to be irreplaceable one must always be different so the concept of cultural designing in outwears in international nation is totally unique as it is very hard to follow other culture and tradition, also in this era people want to express themselves, therefore, we target people who look for a unique and up-to-date product as well as a cultural ambiance in clothing trends.

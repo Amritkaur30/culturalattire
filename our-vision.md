@@ -6,7 +6,7 @@ subtitle: "“We endeavour to be worldwide leaders in Fashion-Knit and Fashion O
 img_path: ''
 menu:
   main:
-    weight: 5
+    weight: 2
 
 ---
 Undoubtedly, what you wear is how you represent yourself to the world and, also fashion is instant language so, we will offer elegant, exclusive, and iconic designs of quality clothing brands to our customers specifically related to their own culture. We will always try to make a difference via our traditional branding to stay ahead of market changes as well as fashion trends.

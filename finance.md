@@ -5,7 +5,7 @@ subtitle: ''
 img_path: ''
 menu:
   main:
-    weight: 9
+    weight: 6
 
 ---
 First of all, we need a space to build our store so we need rent and operating expenses .

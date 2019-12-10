@@ -5,7 +5,7 @@ subtitle: ''
 img_path: ''
 menu:
   main:
-    weight: 7
+    weight: 4
 
 ---
 our business is launching with new concept in clothing trends but, it has to face some of the risks which are as following: -
