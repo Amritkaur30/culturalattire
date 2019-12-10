@@ -26,6 +26,5 @@ fields:
 pages:
 - "./about-us-1.md"
 - "./about-us.md"
-- about.md
 - style-guide.md
 - signup.md
