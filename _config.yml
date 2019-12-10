@@ -12,8 +12,10 @@ header:
     - label: Sign Up
       url: "/signup"
 footer:
-  logo_img: "/images/fffff.png"
-  tagline: ''
+  logo_img: "/images/cultural attire (1).png"
+  tagline: fashion is instant language so, we will offer elegant, exclusive, and iconic
+    designs of quality clothing brands to our customers specifically related to their
+    own culture.
   has_nav: true
   nav_title: Cultural Attire
   has_social: true
