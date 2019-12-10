@@ -48,7 +48,7 @@ sections:
   - title: Marketing
     content: We will do Digital marketing through social media, Pay per click, and
       SEO, Advertisement, Blog, Art fairs or Exhibition, Moving store etc..
-    image: ''
+    image: "/images/Marketing.jpg"
     actions:
     - label: Learn more..
       url: "/marketing"
