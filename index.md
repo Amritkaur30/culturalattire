@@ -38,13 +38,13 @@ sections:
     actions:
     - label: Learn More
       url: "/strategies"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+  - title: Risk
+    content: Lack of capital to commence a business. Non-sophisticated marketing sense.
+      Lack of synergies with existing market and government support organizations.
     image: images/feature3.png
     actions:
     - label: Learn More
-      url: "/features"
+      url: "/risk"
   - title: ''
     content: ''
     image: ''
