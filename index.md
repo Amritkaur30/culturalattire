@@ -29,13 +29,15 @@ sections:
     actions:
     - label: Learn More
       url: "/our-vision"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: images/feature2.png
+  - title: Strategies
+    content: |-
+      “WE WILL NOT DESIGN CLOTHES; WE WILL DESIGN CULTURE”
+
+      an emotional connection with our customers as our textiles depict their culture and help them to keep connected with their traditions.
+    image: "/images/IMG-8884.JPG"
     actions:
     - label: Learn More
-      url: "/features"
+      url: "/strategies"
   - title: Cool Feature of Your Services
     content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
       venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
