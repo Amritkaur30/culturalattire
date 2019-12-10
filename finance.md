@@ -4,6 +4,8 @@ title: Finance
 subtitle: ''
 img_path: ''
 menu:
+  secondary:
+    weight: 6
   main:
     weight: 6
 

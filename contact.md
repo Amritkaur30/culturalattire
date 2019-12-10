@@ -12,6 +12,6 @@ sections:
 layout: landing
 menu:
   secondary:
-    weight: 3
+    weight: 7
 
 ---

@@ -5,6 +5,8 @@ subtitle: "“We endeavour to be worldwide leaders in Fashion-Knit and Fashion O
   by empowering Traditional designs to provide whole customer satisfaction”"
 img_path: ''
 menu:
+  secondary:
+    weight: 2
   main:
     weight: 2
 

@@ -4,6 +4,8 @@ title: Strategies
 subtitle: "“We will not design clothes; we will design culture”"
 img_path: ''
 menu:
+  secondary:
+    weight: 3
   main:
     weight: 3
 

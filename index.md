@@ -70,6 +70,8 @@ sections:
     url: "/contact"
 layout: landing
 menu:
+  secondary:
+    weight: 1
   main:
     weight: 1
 
