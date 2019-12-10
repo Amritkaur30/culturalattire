@@ -41,7 +41,7 @@ sections:
   - title: Risk
     content: Lack of capital to commence a business. Non-sophisticated marketing sense.
       Lack of synergies with existing market and government support organizations.
-    image: images/feature3.png
+    image: "/images/rik.jpg"
     actions:
     - label: Learn More
       url: "/risk"
