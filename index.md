@@ -56,7 +56,7 @@ sections:
     content: Finance plays a vital role to set the pillar of new business. As our
       business is physically and virtually located, we will do some equity financing
       to get enough capital.
-    image: ''
+    image: "/images/business-finance_resize.jpg"
     actions:
     - label: Finance
       url: "/finance"
