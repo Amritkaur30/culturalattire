@@ -11,7 +11,7 @@ sections:
     BE YOURSELF<br>
 
     BE DIVINE
-  image: "/images/—Pngtree—fashion girl hand drawn beauty_3841097.png"
+  image: "/images/feature3.png"
   actions:
   - label: Learn More
     url: "/features"
