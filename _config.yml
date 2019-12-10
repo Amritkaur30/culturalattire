@@ -2,7 +2,7 @@
 title: Cultural Attire
 baseurl: "/"
 permalink: "/:title/"
-palette: orange
+palette: purple
 header:
   title: Cultural Attire
   logo_img: images/logo.png
