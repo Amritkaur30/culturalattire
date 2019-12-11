@@ -66,7 +66,7 @@ sections:
   title: We are happy to helping you..!
   subtitle: ''
   actions:
-  - label: Keep In Trouch
+  - label: Keep In Touch
     url: "/contact"
 layout: landing
 menu:
