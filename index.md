@@ -11,7 +11,7 @@ sections:
     BE YOURSELF<br>
 
     BE DIVINE
-  image: "/images/feature3.png"
+  image: "/images/Clothing Rack Boutique Fashion Facebook Cover.png"
   actions:
   - label: Learn More
     url: "/our-vision"
